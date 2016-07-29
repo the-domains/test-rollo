@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6469534
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.7493734
-  brandStrength: 0.1986216
+  brandStrength: 0.325188
   lightness: 0.1929825
   brandColors:
-    - '#071542'
-    - '#E7E0D0'
-    - '#A39A8B'
-    - '#5C5855'
-    - '#FFF056'
+    - '#4E82B1'
+    - '#DCD9C8'
+    - '#B2A389'
+    - '#27343A'
+    - '#000000'
   rhythmicContrast: 0.8659148
+typography_spectrum: 0.6469534
 layout_spectrum: 0.4551971
 name: Test-Rollo
