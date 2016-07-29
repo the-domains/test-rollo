@@ -1,14 +1,26 @@
-layout_spectrum: 0.4551971
-typography_spectrum: 0.6469534
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8591931
+  brandStrength: 0.1986216
   lightness: 0.07950389
-  brandStrength: 0.176273
-  rhythmicContrast: 0.8836635
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#071542'
+    - '#E7E0D0'
+    - '#A39A8B'
+    - '#5C5855'
+    - '#FFF056'
+  rhythmicContrast: 0.8836635
+typography_spectrum: 0.6469534
+layout_spectrum: 0.4551971
 name: Test-Rollo
