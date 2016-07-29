@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.6469534
 color:
   saturation: 0.7493734
   brandStrength: 0.325188
@@ -21,6 +22,5 @@ color:
     - '#27343A'
     - '#000000'
   rhythmicContrast: 0.8659148
-typography_spectrum: 0.6469534
-layout_spectrum: 0.4551971
+layout_spectrum: 0.4185464
 name: Test-Rollo
