@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.6469534
 color:
-  saturation: 0.8591931
+  saturation: 0.7493734
   brandStrength: 0.1986216
-  lightness: 0.07950389
+  lightness: 0.1929825
   brandColors:
     - '#071542'
     - '#E7E0D0'
     - '#A39A8B'
     - '#5C5855'
     - '#FFF056'
-  rhythmicContrast: 0.8836635
-typography_spectrum: 0.6469534
+  rhythmicContrast: 0.8659148
 layout_spectrum: 0.4551971
 name: Test-Rollo
